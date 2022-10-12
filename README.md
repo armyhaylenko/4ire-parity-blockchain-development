@@ -77,6 +77,8 @@ Just take a look at [teams who build in Substrate](https://substrate.io/ecosyste
 After completing the course successfully, you will learn a set of cutting-edge technologies (Substrate, Polkadot, ink!, Rust), one super important skill (blockchain development), one beautiful programming language (Rust), and a wider outlook on the current state of tech, Web3 understanding and most definitely a job among the most interesting Web3 companies around the world.
 
 
+Next up: Parity company pitch, 4ire company pitch.
+
 ## Approximate learning plan
 
 We plan this course to last 5 weeks.
